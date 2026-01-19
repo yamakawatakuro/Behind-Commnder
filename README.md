@@ -13,7 +13,7 @@ A MIDI controller application for Pangolin Beyond, designed with lighting consol
 
 ## Download
 
-[Latest Release](https://github.com/[YourUsername]/BehindCommander/releases)
+[Latest Release](https://github.com/yamakawatakuro/Behind-Commnder/releases/tag/v0.5)
 
 ## Installation
 
@@ -31,7 +31,7 @@ A MIDI controller application for Pangolin Beyond, designed with lighting consol
 ## Feedback
 
 Feature suggestions and bug reports are welcome!
-- [Issues](https://github.com/[YourUsername]/BehindCommander/issues)
+- [Issues](https://github.com/yamakawatakuro/BehindCommander/issues)
 
 ## License
 
