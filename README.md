@@ -12,7 +12,7 @@ A MIDI controller application for Pangolin Beyond, designed with lighting consol
 - Japanese/English language support
 
 ## Download
-[Latest Release](https://github.com/yamakawatakuro/Behind-Commnder/releases/tag/v0.5.5)
+[Latest Release](https://github.com/yamakawatakuro/Behind-Commnder/releases)
 
 ## System Requirements
 
